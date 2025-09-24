@@ -55,4 +55,4 @@ Use o Postman ou Insomnia para testar as rotas:
 - `DELETE /api/users/:id`
 
 ---
-Feito por Haridade 💚 para você!
+🎓 Feito por kiiwl para você!
