@@ -54,5 +54,5 @@ Use o Postman ou Insomnia para testar as rotas:
 - `PUT /api/users/:id`
 - `DELETE /api/users/:id`
 
----
-🎓 Feito por kiiwl para você!
+
+### Feito por lendariow 💜
